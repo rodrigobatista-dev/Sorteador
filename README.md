@@ -20,7 +20,7 @@ Um simples aplicativo web criado com HTML, CSS e JavaScript para sortear número
 
 ## 📷 Prévia
 
-🔗 Acesse o projeto online: [DevSorteio](https://rodrigobatista-dev.github.io/devsorteio/)
+🔗 Acesse o projeto online: [DevSorteio](https://rodrigobatista-dev.github.io/Sorteador/)
 
 ## 🚀 Como usar
 

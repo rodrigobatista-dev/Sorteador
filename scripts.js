@@ -4,7 +4,7 @@ function generateNumber() {
 
   if (isNaN(min) || isNaN(max) || min > max) {
     document.getElementById("resultado").textContent =
-      "Insira valores válidos!";
+      "Insira valores válidos de minimo e maximo!";
     return;
   }
 

@@ -11,10 +11,16 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
       rel="stylesheet"
     />
-    <title>Sorteiador</title>
+    <link
+      rel="icon"
+      href="./assets/img/favicon.ico"
+      type="image/x-icon"
+      sizes="16x16 32x32"
+    />
+    <title>Sorteador</title>
   </head>
   <body>
-    <img class="logo" src="./dados-4.gif" alt="logo-sorteito" />
+    <img class="logo" src="./assets/img/dados-4.gif" alt="logo-sorteito" />
 
     <h1>DevSorteio</h1>
 
@@ -24,8 +30,8 @@
     
 
     <div>
-      <input placeholder="Entre" class="input-min" type="number" />
-      <input placeholder="e" class="input-max" type="number" />
+      <input placeholder="Minimo: 1" class="input-min" type="number" />
+      <input placeholder="Maximo: 10" class="input-max" type="number" />
     </div>
 
     <button onclick="generateNumber(  )">Sorteio</button>
